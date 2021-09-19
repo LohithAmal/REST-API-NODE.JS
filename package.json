@@ -1,0 +1,29 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "This is to build an rest api using node js and express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LohithAmal/REST-API-NODE.JS.git"
+  },
+  "keywords": [
+    "node.js",
+    "rest",
+    "api",
+    "express.js"
+  ],
+  "author": "Amal Lohith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LohithAmal/REST-API-NODE.JS/issues"
+  },
+  "homepage": "https://github.com/LohithAmal/REST-API-NODE.JS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
