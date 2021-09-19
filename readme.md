@@ -35,5 +35,21 @@ REST - Representational State Trasfer
 
 * this is an example of a POST request used for the operation create and this need the customer object to execute and create the database.
 
+## [EXPRESS.JS](http://expressjs.com/) 
 
+**npm i express** in terminal
+
+* to call express in our app.js folder- we have to requie the express in a variable,
+
+````
+const express = require('express');
+
+const app = express();
+
+<!-- express comes with many feature these are some we mainly use -->
+app.get();
+app.post();
+app.put();
+app.delete();
+````
 
